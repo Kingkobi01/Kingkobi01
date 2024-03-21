@@ -8,11 +8,10 @@ I really enjoy learning languages and frameworks like Javascript, Typescript, Py
 
 ## Skills and Experience
 * ⚛️ REACT
+* 💻HTML, CSS, JS
 * TYPESCRIPT
-* JS
 * PYTHON
 * PHP
-* 💻HTML, CSS, JS
 
 - 🔭 I’m currently working on my portfolio website 
 - 🌱 I’m currently learning React with Typescript 

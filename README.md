@@ -1,11 +1,18 @@
-### Hi there 👋, my name is Kwabena from Kumasi, Ghana
-#### I am a Frontend Developer
 ![Banner](./linkedInBanner.png)
 
+### Hi there 👋, my name is Kwabena Boakye
+I'm from Kumasi, Ghana and I'm a Frontend Developer
 
-I specialize in React and Tailwind CSS. I enjoy wireframing, UI, UX and design in general
 
-Skills: REACT/ TYPESCRIPT / JS / PYTHON / PHP/ HTML /TAILWIND CSS/ BOOTSTRAP CSS/ MATERIALIZE CSS
+I really enjoy learning languages and frameworks like Javascript, Typescript, Python, React, and Tailwind CSS. I enjoy wireframing, UI, UX, and design in general
+
+## Skills and Experience
+* ⚛️ REACT
+* TYPESCRIPT
+* JS
+* PYTHON
+* PHP
+* 💻HTML, CSS, JS
 
 - 🔭 I’m currently working on my portfolio website 
 - 🌱 I’m currently learning React with Typescript 

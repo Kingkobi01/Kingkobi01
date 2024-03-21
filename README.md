@@ -1,3 +1,13 @@
-!'m Kwabena from Kumasi, Ghana. I'm a Front-end Developer specializing in React and Tailwind CSS. I enjoy wireframing, UI, UX and design in general You can check out my Twitter at twitter.com/PapaYiadom.
+### Hi there 👋, my name is Kwabena from Kumasi, Ghana
+#### I am a Frontend Developer
+![I am a Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kingkobi01)](https://github.com/Kingkobi01/github-readme-stats)
+I specialize in React and Tailwind CSS. I enjoy wireframing, UI, UX and design in general
+
+Skills: REACT/ TYPESCRIPT / JS / PYTHON / PHP/ HTML /TAILWIND CSS/ BOOTSTRAP CSS/ MATERIALIZE CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

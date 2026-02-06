@@ -1,4 +1,4 @@
-![Banner](./linkedInBanner.png)
+![Banner](./linkedInBannerCurrent.png)
 
 ### Hi there 👋, my name is Kwabena Boakye
 I'm from Kumasi, Ghana and I'm a Frontend Developer

@@ -7,6 +7,7 @@ I'm from Kumasi, Ghana and I'm a Frontend Developer
 I really enjoy learning languages and frameworks like Javascript, Typescript, Python, React, and Tailwind CSS. I enjoy wireframing, UI, UX, and design in general
 
 ## Skills and Experience
+* ⚛️ NEXTJS
 * ⚛️ REACT
 * 💻HTML, CSS, JS
 * TYPESCRIPT
